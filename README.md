@@ -6,6 +6,7 @@ Goal
 To Capture the different types of cyber attacks that happen through network and get the packet count based on the attack type. 
 
 Brainstroming 
+
 Understanding of the different types of network attacks which have been discovered in the past and using python modules which parse and recognize these types of attacks.
 
 Usage 
